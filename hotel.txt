@@ -1,3 +1,4 @@
 "golden dhaba" 
 "shara hotel"
 "agent jack"
+"decent hotel"
